@@ -3,6 +3,7 @@
 #include "User.h"
 #include "Supplier.h"
 #include "Opinion.h"
+//server
 
 int main() {
 	SetConsoleCP(1251);
